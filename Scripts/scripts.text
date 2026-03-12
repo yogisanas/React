@@ -1,0 +1,17 @@
+npx create-react-app my-app
+
+cd my-app
+
+dir    --package.json
+
+npm run start
+
+npm run build
+
+npm i / install
+
+
+
+
+npm create vite@latest
+npm run dev
