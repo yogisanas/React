@@ -23,9 +23,14 @@ npm install -D tailwindcss postcss autoprefixer
 npm install -D tailwindcss@3.4.17
 npx tailwindcss init -p
 
+--tailwind.config.js
 "./index.html",
     "./src/**/*.{js,ts,jsx,tsx}",
 
+--index.css
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+npm i react-router-dom
