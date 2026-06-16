@@ -40,3 +40,6 @@ npm i react-router-dom
 #. Redux:-
 npm install @reduxjs/toolkit
 npm install react-redux
+
+
+npm i @reduxjs/toolkit react-redux react-router-dom appwrite @tinymce/tinymce-react html-react-parser react-hook-form
