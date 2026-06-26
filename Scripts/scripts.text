@@ -15,6 +15,7 @@ npm i / install
 
 #. Vite Proj:-
 npm create vite@latest
+npm create vite@latest .     --current folder
 npm run dev
 
 
